@@ -1,0 +1,16 @@
+{
+    "name": "prueba",
+    "version": "1.0.0",
+    "description": "Aplicacion para crear tablas de multiplicar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jose sakuda",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "nodemon": "^2.0.4",
+        "yargs": "^16.0.3"
+    }
+}
